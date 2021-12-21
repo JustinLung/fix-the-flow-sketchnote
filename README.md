@@ -2,6 +2,7 @@
 
 # Titel
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+## We ❤️ Web: Navigeren op het web & de kracht van CSS
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
