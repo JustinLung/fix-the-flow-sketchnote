@@ -2,10 +2,11 @@
 
 # Titel
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
-## We ❤️ Web: Navigeren op het web & de kracht van CSS
+## We ❤️ Web: Navigeren op het web & de kracht van CSS Sketchnotes
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
+![Sketchnotes](https://raw.githubusercontent.com/JustinLung/fix-the-flow-sketchnote/main/docs/sketchnote-image.png)
 
 ## Licentie
 
